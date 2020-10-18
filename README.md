@@ -25,7 +25,6 @@ I am from Bengaluru, India and am currently doing B.Tech in Computer Science.
 
 <a href="https://github.com/Shamanthkolegodu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shamanthkolegodu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanthkolegodu&theme=buefy&layout=compact" />
 </a>
 
 ## ☕ Get In Touch
