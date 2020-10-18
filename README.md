@@ -4,14 +4,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/shamanth_km" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/shamanth-k-m-161764191/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/shamanth_k_m/" />][instagram]
-
-<br />
-
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
