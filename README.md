@@ -18,3 +18,10 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ![Shamanth K M github stats](https://github-readme-stats.vercel.app/api?username=Shamanthkolegodu&show_icons=true&hide_border=true)
+
+
+## ☕ Get In Touch
+- LinkedIn - [LinkedIn](https://www.linkedin.com/in/shamanth-k-m-161764191/)
+- Mail - shamanthkolegodu@gmail.com
+- GitHub - [github](https://github.com/Shamanthkolegodu/)
+- HackerRank - [hackerrank](https://www.hackerrank.com/shamanthkolegodu/)
