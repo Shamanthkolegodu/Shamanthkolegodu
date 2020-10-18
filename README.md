@@ -2,11 +2,13 @@
 
 ## Sophomore at PES University Bangalore
 
+I am from Bengaluru, India and am currently doing B.Tech in Computer Science.
+
 - 🌱 I’m currently learning everything 😉
 - 👯 I’m looking to collaborate on Literally anything
 - 📫 How to reach me: Drop a mail at shamanthkolegodu@gmail.com
 
-### Tech & Tools Preference
+### 👨‍💻 Languages and Tools
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -19,7 +21,14 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
+### 🏆 Github Status
+
 ![Shamanth K M github stats](https://github-readme-stats.vercel.app/api?username=Shamanthkolegodu&show_icons=true&hide_border=true)
+
+<a href="https://github.com/Shamanthkolegodu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shamanthkolegodu&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanthkolegodu&theme=buefy&layout=compact" />
+</a>
 
 ## ☕ Get In Touch
 
@@ -28,7 +37,7 @@
 - GitHub - [github](https://github.com/Shamanthkolegodu/)
 - HackerRank - [hackerrank](https://www.hackerrank.com/shamanthkolegodu/)
 
-## Credits
+### Credits
 
 - Kautukkundan-[github](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 - Arvind krishna-[github](https://github.com/ArvindAROO/ArvindAROO/blob/master/README.md)
