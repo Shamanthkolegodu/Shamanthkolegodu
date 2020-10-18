@@ -2,7 +2,9 @@
 
 ## Sophomore at PES University Bangalore
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😉
+- 👯 I’m looking to collaborate on Literally anything
+- 📫 How to reach me: Drop a mail at shamanthkolegodu@gmail.com
 
 ### Tech & Tools Preference
 
@@ -19,9 +21,14 @@
 
 ![Shamanth K M github stats](https://github-readme-stats.vercel.app/api?username=Shamanthkolegodu&show_icons=true&hide_border=true)
 
-
 ## ☕ Get In Touch
+
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/shamanth-k-m-161764191/)
 - Mail - shamanthkolegodu@gmail.com
 - GitHub - [github](https://github.com/Shamanthkolegodu/)
 - HackerRank - [hackerrank](https://www.hackerrank.com/shamanthkolegodu/)
+
+## Credits
+
+- Kautukkundan-[github](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+- Arvind krishna-[github](https://github.com/ArvindAROO/ArvindAROO/blob/master/README.md)
