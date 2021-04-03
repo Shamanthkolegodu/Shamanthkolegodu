@@ -28,8 +28,3 @@ I am from Bengaluru, India and am currently doing B.Tech in Computer Science.
 - Mail - shamanthkolegodu@gmail.com
 - GitHub - [github](https://github.com/Shamanthkolegodu/)
 - HackerRank - [hackerrank](https://www.hackerrank.com/shamanthkolegodu/)
-
-### Credits
-
-- Kautukkundan-[github](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-- Arvind krishna-[github](https://github.com/ArvindAROO/ArvindAROO/blob/master/README.md)
