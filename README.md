@@ -21,11 +21,6 @@ I am from Bengaluru, India and am currently doing B.Tech in Computer Science.
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-### 🏆 Github Status
-
-<a href="https://github.com/Shamanthkolegodu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shamanthkolegodu&theme=buefy&show_icons=true" />
-</a>
 
 ## ☕ Get In Touch
 
