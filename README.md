@@ -2,7 +2,6 @@
 
 ## Junior at PES University Bangalore
 
-I am from Bengaluru, India and am currently pursuing my B.Tech in Computer Science.
 I'm a Computer Science Junior pursuing my B.Tech from PES University, India.
 
 
