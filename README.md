@@ -16,11 +16,10 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, India.
 <a href=""><img alt="" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href=""><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<a href=""><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<a href=""><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<a href=""><img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<a href=""><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<a href=""><img alt="" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<a href=""><img alt="" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<a href=""><img alt="" src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<a href=""><img alt="" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 
 ## 🧰 Libraries, Frameworks and Tools
 <a href=""><img alt="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
