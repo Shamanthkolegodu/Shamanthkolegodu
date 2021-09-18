@@ -2,7 +2,7 @@
 
 ## Junior at PES University Bangalore
 
-I'm a Computer Science Junior pursuing my B.Tech from PES University, India.
+I'm a Computer Science Junior pursuing my B.Tech in Computer Science from PES University, India.
 
 
 - 🌱 I’m currently learning everything 😉
