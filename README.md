@@ -31,6 +31,12 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, India.
 <a href=""><img alt="" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
 
+## 🏆 GitHub Stats
+![Shamanth's Github stats](https://github-readme-stats.vercel.app/api?username=shamanthkolegodu&count_private=true&theme=tokyonight)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamanthkolegodu&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  
+  
 ## ☕ Get In Touch
 
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/shamanth-k-m-161764191/)
@@ -38,3 +44,6 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, India.
 - GitHub - [github](https://github.com/Shamanthkolegodu/)
 - HackerRank - [hackerrank](https://www.hackerrank.com/shamanthkolegodu/)
 - Website - [Shamanth](https://shamanthkolegodu.github.io/)
+
+  
+  
