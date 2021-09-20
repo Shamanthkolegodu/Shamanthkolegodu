@@ -6,7 +6,7 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, Bengaluru,
 
 
 - 🌱 I’m currently learning everything 😉
-- 👯 I’m looking to collaborate on Literally anything
+- 👯 I’m looking to collaborate on Literally anything and internships
 - 📫 How to reach me: Drop a mail at shamanthkolegodu@gmail.com
 
 ### 👨‍💻 Languages
