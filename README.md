@@ -32,7 +32,6 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, Bengaluru,
 <a href=""><img alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
 
 ## 🏆 GitHub Stats
-![Shamanth's Github stats](https://github-readme-stats.vercel.app/api?username=shamanthkolegodu&count_private=true&theme=tokyonight)
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamanthkolegodu&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
