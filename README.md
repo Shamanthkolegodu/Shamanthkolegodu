@@ -35,6 +35,10 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, Bengaluru,
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamanthkolegodu&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
+
+ 
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shamanthkolegodu&theme=github"/>
+
   
 ## ☕ Get In Touch
 
