@@ -1,12 +1,12 @@
 ### Hi there, I'm Shamanth K M👋
 
-## Senior at PES University Bangalore
+## Software engineer at Vyapar.
 
-I'm a senior in PES University persuing my B.Tech in Computer Science.
+I'm a Software Engineer @Vyapar, Graduate from PES University in Computer Science 2023.
 
 
-- 🌱 I’m currently learning everything 😉
-- 👯 I’m looking to collaborate on Literally anything and internships
+- 🌱 I’m currently working as backend engineer😉
+- 👯 I’m looking to collaborate on projects and discussions
 - 📫 How to reach me: Drop a mail at shamanthkolegodu@gmail.com
 
 ### 👨‍💻 Languages
@@ -56,7 +56,6 @@ I'm a senior in PES University persuing my B.Tech in Computer Science.
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/shamanth-k-m-161764191/)
 - Mail - shamanthkolegodu@gmail.com
 - GitHub - [github](https://github.com/Shamanthkolegodu/)
-- HackerRank - [hackerrank](https://www.hackerrank.com/shamanthkolegodu/)
 - Website - [Shamanth](https://shamanthkolegodu.github.io/)
 
   
